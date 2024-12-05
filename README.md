@@ -1,9 +1,4 @@
-Here is a sample README file for your Life Expectancy Analysis project:
-
-
-Life Expectancy Analysis: Exploring Global Health Trends**
-
-Project Overview
+## **Project Overview**
 This project investigates life expectancy trends across different countries and regions, focusing on the factors influencing variations in longevity. By leveraging data-driven insights, the analysis aims to uncover relationships between life expectancy and socioeconomic, healthcare, and environmental indicators.
 
 The project provides visualizations and statistical insights to better understand global health inequalities and the driving factors behind them.
@@ -97,9 +92,5 @@ This project and dataset are licensed under the **Creative Commons Attribution 4
 
 ## **Contact**
 For any questions or feedback, feel free to reach out:
-- **Email**: [yourname@example.com](mailto:yourname@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
-
---- 
-
-This README provides all the necessary information for anyone exploring your project. Adjust sections like "Contact" and repository links as per your setup!
+- **Email**: [shreyasg23@gmail.com](mailto:shreyasg23@gmail.com)
+- **GitHub**: [shreyasg23](https://github.com/shreyasg23)
